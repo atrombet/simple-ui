@@ -1,0 +1,244 @@
+@import './variables.scss';
+
+html {
+  font-family: $font;
+  background-color: $background-purple;
+  color: $light-text;
+}
+
+/*
+ * Text Helpers
+ */
+.light-text {
+  color: $light-text;
+}
+
+.dark-text {
+  color: $dark-text;
+}
+
+/*
+ * Color Helpers
+ */
+.purple {
+  background-color: $accent-purple;
+}
+
+.pink {
+  background-color: $accent-pink;
+}
+
+.orange {
+  background-color: $accent-orange;
+}
+
+.tan {
+  background-color: $accent-tan;
+}
+
+/*
+ * Padding Helpers
+ */
+.paxs {
+  padding: $xsmall;
+}
+
+.pas {
+  padding: $small;
+}
+
+.pam {
+  padding: $medium;
+}
+
+.pal {
+  padding: $large
+}
+
+.paxl {
+  padding: $xlarge;
+}
+
+.ptxs {
+  padding-top: $xsmall;
+}
+
+.pts {
+  padding-top: $small;
+}
+
+.ptm {
+  padding-top: $medium;
+}
+
+.ptl {
+  padding-top: $large
+}
+
+.ptxl {
+  padding-top: $xlarge;
+}
+
+.prxs {
+  padding-right: $xsmall;
+}
+
+.prs {
+  padding-right: $small;
+}
+
+.prm {
+  padding-right: $medium;
+}
+
+.prl {
+  padding-right: $large
+}
+
+.prxl {
+  padding-right: $xlarge;
+}
+
+.pbxs {
+  padding-bottom: $xsmall;
+}
+
+.pbs {
+  padding-bottom: $small;
+}
+
+.pbm {
+  padding-bottom: $medium;
+}
+
+.pbl {
+  padding-bottom: $large
+}
+
+.pbxl {
+  padding-bottom: $xlarge;
+}
+
+.plxs {
+  padding-left: $xsmall;
+}
+
+.pls {
+  padding-left: $small;
+}
+
+.plm {
+  padding-left: $medium;
+}
+
+.pll {
+  padding-left: $large
+}
+
+.plxl {
+  padding-left: $xlarge;
+}
+
+
+/*
+ * Margin Helpers
+ */
+.maxs {
+  margin: $xsmall;
+}
+
+.mas {
+  margin: $small;
+}
+
+.mam {
+  margin: $medium;
+}
+
+.mal {
+  margin: $large
+}
+
+.maxl {
+  margin: $xlarge;
+}
+
+.mtxs {
+  margin-top: $xsmall;
+}
+
+.mts {
+  margin-top: $small;
+}
+
+.mtm {
+  margin-top: $medium;
+}
+
+.mtl {
+  margin-top: $large
+}
+
+.mtxl {
+  margin-top: $xlarge;
+}
+
+.mrxs {
+  margin-right: $xsmall;
+}
+
+.mrs {
+  margin-right: $small;
+}
+
+.mrm {
+  margin-right: $medium;
+}
+
+.mrl {
+  margin-right: $large
+}
+
+.mrxl {
+  margin-right: $xlarge;
+}
+
+.mbxs {
+  margin-bottom: $xsmall;
+}
+
+.mbs {
+  margin-bottom: $small;
+}
+
+.mbm {
+  margin-bottom: $medium;
+}
+
+.mbl {
+  margin-bottom: $large
+}
+
+.mbxl {
+  margin-bottom: $xlarge;
+}
+
+.mlxs {
+  margin-left: $xsmall;
+}
+
+.mls {
+  margin-left: $small;
+}
+
+.mlm {
+  margin-left: $medium;
+}
+
+.mll {
+  margin-left: $large
+}
+
+.mlxl {
+  margin-left: $xlarge;
+}
